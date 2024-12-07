@@ -2,6 +2,7 @@
 Developed as a mini-project for college, this Resume Builder website aims to simplify the process of creating professional resumes. The platform allows users to input their details, select templates, and download customizable resumes.
 
 Team Members:
+
 A collaborative project by 2nd-year Students:
 1. Prateek Gupta(135)
 2. Ranjan Kumar Singh(146)
