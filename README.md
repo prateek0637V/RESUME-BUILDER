@@ -7,10 +7,10 @@ A collaborative project by 2nd-year Students:
 3. Raju Kumar(144)
 4. Raunak Pandey(147)
 
-Technologies Used
+Technologies Used:
 1. HTML/CSS
 2. JavaScript
 3. Bootstrap
 
-Acknowledgments
+Acknowledgments:
 Special thanks to our instructor Mr. Mohit Kumar sir and fellow peers for their guidance and support.
